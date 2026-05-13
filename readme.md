@@ -31,7 +31,7 @@ Three questions drive the analysis:
 ## Project Structure
 
 ```
-dev_adoption_pipeline/
+Dev-Adoption-Data-Pipeline/
   models/
     staging/
       stg_survey.sql               
