@@ -1,0 +1,25 @@
+version: 2
+
+models:
+  - name: ai_adoption_by_devtype
+    columns:
+      - name: developer_type
+        tests:
+          - not_null
+          - unique
+      - name: adoption_rate
+        tests:
+          - not_null
+
+  - name: ai_adoption_by_country
+    columns:
+      - name: country
+        tests:
+          - not_null
+          - unique
+
+  - name: ai_trust_vs_adoption
+    columns:
+      - name: total
+        tests:
+          - not_null
