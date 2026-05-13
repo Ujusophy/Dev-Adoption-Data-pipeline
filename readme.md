@@ -1,4 +1,4 @@
-# Developer AI Adoption Pipeline
+# Developer AI Adoption Data Pipeline
 <img width="2545" height="1435" alt="image" src="https://github.com/user-attachments/assets/fb6914e8-66d6-4ae5-858a-7ace3529f440" />
 
 > 49,123 developers answered a survey about AI tools in 2025.  
