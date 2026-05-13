@@ -52,7 +52,7 @@ dev_adoption_pipeline/
 49,123 responses, 177 countries, 62 questions.
 
 Download it here:
-`kaggle.com/datasets/aliaslam25/stack-overflow-developer-survey-2025`
+[kaggle.com/datasets/aliaslam25/stack-overflow-developer-survey-2025](https://www.kaggle.com/datasets/aliaslam25/stack-overflow-developer-survey-2025)
 
 Load `survey_results_public.csv` into Snowflake as `survey_raw` before running dbt.
 
