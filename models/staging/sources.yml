@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: stackoverflow
+    database: dev_adoption
+    schema: stackoverflow
+    tables:
+      - name: survey_raw
